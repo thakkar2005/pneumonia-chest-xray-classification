@@ -99,3 +99,13 @@ The notebook was run in Google Colab (T4 GPU) across several sessions, with the 
 ## Future work
 
 Test on an independent dataset, crop to the lung region automatically, train with Normal images matched to the test conditions, and average several models with different seeds.
+
+## Author
+
+**Jay Thakkar**, BCA student (AI / ML). Built as a DataMites capstone project (PRAICP-1012).
+
+[LinkedIn](https://www.linkedin.com/in/jay-thakkar-065956335/) | [GitHub](https://github.com/thakkar2005)
+
+## License
+
+MIT License. See the [LICENSE](LICENSE) file.
