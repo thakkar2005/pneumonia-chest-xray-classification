@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Never commit the dataset, archives or secrets
+chest_xray/
+chest_xray_split/
+*.zip
+.env
+*token*
